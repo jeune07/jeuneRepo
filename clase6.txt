@@ -1,0 +1,12 @@
+a)¿Quién inventó el sistema de control de versión Git y por qué?
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Algunos de los objetivos del nuevo sistema fueron los siguientes: Velocidad
+            Diseño sencillo
+            Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+            Completamente distribuido
+            Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+
+b)¿A quién pertenece actualmente Github y por qué?
+Pertenece a Microsoft, porque su intencion es proporcior más herramientas a los desarrolladores
+
+c)¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, GitHub Desktop

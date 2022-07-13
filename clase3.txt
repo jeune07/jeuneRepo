@@ -1,0 +1,367 @@
+CLASE NUMERO 3 
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~ (main)
+$ mkdir DH
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~ (main)
+$ cd DH
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ mkdir Peliculas
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ cd Peliculas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Infantiles/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Infantiles (main)
+$ touch Intenzamente.txt El_juego_del_miedo.xls Rapido_Y_Furioso.pdf Titanic.jpg
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Infantiles (main)
+$ ls
+El_juego_del_miedo.xls  Intenzamente.txt  Rapido_Y_Furioso.pdf  Titanic.jpg
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Infantiles (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Accion/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ touch Smooth_criminal.txt Diario_de_una_pasion.js El_hexorcista.xls Cars.jpg
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Terror/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Terror (main)
+$ touch La_dama_y_el_bagavundo.png Yo_antes_de_ti.xls Que_paso_ayer.pdf We_will_rock_you.js
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Terror (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$  cd Comedia/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Comedia (main)
+$ touch Madagaskar.js Orgullo_y_prejuicio.txt IT.xls Mision_imposible.png
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Comedia (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ touch Pocahontas.jpg Annabelle.js Los_vengadores.js La_mascara.js
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+Cars.jpg  Diario_de_una_pasion.js  El_hexorcista.xls  Smooth_criminal.txt
+
+./Comedia:
+IT.xls  Madagaskar.js  Mision_imposible.png  Orgullo_y_prejuicio.txt
+
+./Infantiles:
+El_juego_del_miedo.xls  Intenzamente.txt  Rapido_Y_Furioso.pdf  Titanic.jpg
+
+./Romanticas:
+Annabelle.js  La_mascara.js  Los_vengadores.js  Pocahontas.jpg
+
+./Terror:
+La_dama_y_el_bagavundo.png  We_will_rock_you.js
+Que_paso_ayer.pdf           Yo_antes_de_ti.xls
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ cd Peliculas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ pwd
+/c/Users/98emi/DH/Peliculas/Romanticas
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ cd peliculas
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/peliculas (main)
+$ cd Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/peliculas/Romanticas (main)
+$ pwd
+/c/Users/98emi/DH/peliculas/Romanticas
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/peliculas/Romanticas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/peliculas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ cd Peliculas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ pwd
+/c/Users/98emi/DH/Peliculas/Romanticas
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ mkdir Pueba
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ pwd
+/c/Users/98emi/DH/Peliculas/Romanticas
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ cd Prueba
+bash: cd: Prueba: No such file or directory
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd  Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ mkdir Prueba
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ cd Prueba/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas/Prueba (main)
+$ pwd
+/c/Users/98emi/DH/Peliculas/Romanticas/Prueba
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas/Prueba (main)
+$ mkdir ../Accion/Prueba2
+mkdir: cannot create directory ‘../Accion/Prueba2’: No such file or directory
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas/Prueba (main)
+$ mkdir /c/Users/98emi/DH/Peliculas/Romanticas/Prueba
+mkdir: cannot create directory ‘/c/Users/98emi/DH/Peliculas/Romanticas/Prueba’: File exists
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas/Prueba (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ mkdir /c/Users/98emi/DH/Peliculas/Romanticas/Prueba
+mkdir: cannot create directory ‘/c/Users/98emi/DH/Peliculas/Romanticas/Prueba’: File exists
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ mkdir /c/Users/98emi/DH/Peliculas/Romanticas/P
+Pocahontas.jpg  Prueba/         Pueba/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ mkdir /c/Users/98emi/DH/Peliculas/Romanticas/Prueba/
+mkdir: cannot create directory ‘/c/Users/98emi/DH/Peliculas/Romanticas/Prueba/’: File exists
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ cd Peliculas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ mkdir ../Accion/Prueba2
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ cd P
+Pocahontas.jpg  Prueba/         Pueba/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Accion/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ mv Cars.jpg ../Infantiles/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ mv Diario_de_una_pasion.js ../Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ mv El_hexorcista.xls ../Terror/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Comedia/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Comedia (main)
+$ mv IT.xls ../Terror/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Comedia (main)
+$ mv Mision_imposible.png ../Accion/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Comedia (main)
+$  mv Orgullo_y_prejuicio.txt ../Accion/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Comedia (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Infantiles/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Infantiles (main)
+$ mv El_juego_del_miedo.xls ../Terror/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Infantiles (main)
+$ mv Rapido_Y_Furioso.pdf ../Accion/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Infantiles (main)
+$  mv Titanic.jpg ../Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Infantiles (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ mv La_mascara.js ../Terror/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ mv Pocahontas.jpg ../Infantiles/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ mv Los_vengadores.js ../Accion/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ mv Annabelle.js ../Terror/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Romanticas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Terror/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Terror (main)
+$ mv La_dama_y_el_bagavundo.png ../Infantiles/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Terror (main)
+$ mv Que_paso_ayer.pdf ../Comedia/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Terror (main)
+$ mv Yo_antes_de_ti.xls ../Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Terror (main)
+$ mv We_will_rock_you.js ../Accion/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Terror (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Accion/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ mv Orgullo_y_prejuicio.txt ../Romanticas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ mv Peliculas/Comedia/Madagaskar.js Peliculas/Comedia/Madagascar.js
+mv: cannot stat 'Peliculas/Comedia/Madagaskar.js': No such file or directory
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ mv Peliculas/Comedia/Madagaskar.js Peliculas/Comedia/Madagascar.js
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$  mv Peliculas/Infantiles/La_dama_y_el_bagavundo.png Peliculas/Infantiles/La_dama_y_el_vagabundo.png
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ mv Peliculas/Terror/El_hexorcista.xls Peliculas/Terror/El_exorcista
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ mv Peliculas/Terror/El_exorcista Peliculas/Terror/El_exorcista.xls
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ cd Peliculas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd Accion/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ pwd
+/c/Users/98emi/DH/Peliculas/Accion
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ rm
+rm: missing operand
+Try 'rm --help' for more information.
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ rm /c/Users/98emi/Desktop/DH/Peliculas/Accion/We_will_rock_you.js
+rm: cannot remove '/c/Users/98emi/Desktop/DH/Peliculas/Accion/We_will_rock_you.js': No such file or directory
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ cd Prueba2/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion/Prueba2 (main)
+$ pwd
+/c/Users/98emi/DH/Peliculas/Accion/Prueba2
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion/Prueba2 (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas/Accion (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ cd ..
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ touch /c/Users/98emi/Desktop/DH/Peliculas/Accion/Prueba2/noBorrar.js
+touch: cannot touch '/c/Users/98emi/Desktop/DH/Peliculas/Accion/Prueba2/noBorrar.js': No such file or directory
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH (main)
+$ cd Peliculas/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ mv Terror/IT.xls Infantiles/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ rm ../camadax.txt
+rm: cannot remove '../camadax.txt': No such file or directory
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$ rm -r Romanticas/Prueba/
+
+98emi@DESKTOP-VKMJ5P8 MINGW64 ~/DH/Peliculas (main)
+$
